@@ -25,6 +25,7 @@ The data includes:
 
 ## Contents
 - `Data_Science_A1.ipynb`: Jupyter Notebook containing the data cleaning process, exploratory analysis, and answers to the provided questions.
+- `data/`: Folder containing the dataset used for analysis.
 
 ## Tools and Libraries Used
 - Python
@@ -40,6 +41,3 @@ The data includes:
 
 ## Conclusions and Recommendations
 The conclusions and recommendations are detailed within the Jupyter Notebook. They are based on the analysis of sales performance across various products and regions.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
